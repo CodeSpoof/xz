@@ -5,9 +5,10 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/jamespfennell/xz"
 	"io"
 	"os"
+
+	"github.com/CodeSpoof/xz"
 )
 
 const usage = `Compress or decompress in the xz format.

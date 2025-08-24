@@ -4,7 +4,7 @@ package xz
 import (
 	"bytes"
 	"fmt"
-	"github.com/jamespfennell/xz/lzma"
+	"github.com/CodeSpoof/xz/lzma"
 	"io"
 	"os"
 )
